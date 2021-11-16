@@ -9,21 +9,6 @@ xwenjiang is a web development
 ```markdown
 
 
-# React 1
-## Vue 2
-### NodeJS 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-```
 function hello()
 {
     console.log('hello,world');
